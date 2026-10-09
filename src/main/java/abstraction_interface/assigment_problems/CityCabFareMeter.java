@@ -102,3 +102,4 @@ public class CityCabFareMeter {
         scanner.close();
     }
 }
+

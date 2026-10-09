@@ -140,3 +140,4 @@ public class HomeApplianceEnergyReport {
         scanner.close();
     }
 }
+
